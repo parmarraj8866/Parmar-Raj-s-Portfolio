@@ -1896,7 +1896,7 @@ body {
         margin-left: 10vw;
         background-color: rgb(44, 48, 48);
         color: #fff;
-        padding: 5vw;
+        padding: 8vw;
     }
 
     .about h1 {
@@ -2004,7 +2004,7 @@ body {
     .services {
         height: auto;
         margin-left: 10vw;
-        margin-top: 325px;
+        margin-top: 300px;
         background-color: rgb(44, 48, 48);
         color: #fff;
         padding: 4vw;
